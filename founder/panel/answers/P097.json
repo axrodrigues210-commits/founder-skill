@@ -1,0 +1,13 @@
+{
+  "id": "P097",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "I only hate hotel tap water a few times a year, so $68 up front plus a filter subscription is a lot for a problem I have maybe a dozen days a year. And the $12.99 shipping on the bottle alone feels like a penalty to push me into the plan.",
+  "objection": "It's another subscription I'll forget to cancel, and the filters only last 2 months whether I use them or not, so I'd be paying for filters sitting in a drawer.",
+  "would_change_my_mind": "Bottle alone around $35 with free shipping and filters I can buy one at a time when I need them, no subscription, or a bigger discount code than 5%.",
+  "price_too_cheap": 12,
+  "price_cheap": 25,
+  "price_expensive": 40,
+  "price_too_expensive": 55
+}

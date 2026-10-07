@@ -1,0 +1,13 @@
+{
+  "id": "P029",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I already have a LARQ I'm happy enough with, and nothing here tells me what this filter actually removes. A creator pitch plus 'supplier rated 150 L' isn't enough to make me switch and sign up for another subscription.",
+  "objection": "How do I know the filter actually does anything? There's no independent test or certification shown, just a supplier rating, and my problem is forgetting my bottle, not the bottle I own.",
+  "would_change_my_mind": "Independent lab results or an NSF certification showing exactly what the filter removes, plus a no-questions return if I don't like it.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 50,
+  "price_too_expensive": 70
+}

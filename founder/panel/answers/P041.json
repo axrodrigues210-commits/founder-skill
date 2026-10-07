@@ -1,0 +1,13 @@
+{
+  "id": "P041",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "values",
+  "reason": "I've been trying to quit buying bottled water at the gym and on my commute, and a filter bottle from a creator I trust is the push I need. I'd take the bottle with the single-filter plan so I'm not paying $68 up front, and cancel if the filters don't last.",
+  "objection": "5-8 working days from overseas is slow, and I'm not sure the filter really lasts two months. Plus every filter is more plastic, which is what I'm trying to get away from.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 50,
+  "price_too_expensive": 70
+}

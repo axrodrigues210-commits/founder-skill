@@ -1,0 +1,13 @@
+{
+  "id": "P074",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Sixty-eight bucks today for a water bottle when I make $28k a year? I already own a reusable bottle, I just forget it sometimes, and a 5% creator code barely dents that price.",
+  "objection": "It's way too much up front, and then I'm signed up for filters forever. Plus 5-8 days for a bottle when I could grab a cheap filter bottle on Amazon tomorrow.",
+  "would_change_my_mind": "A real discount that gets the bottle plus a filter under about $30 shipped, with no subscription.",
+  "price_too_cheap": 8,
+  "price_cheap": 18,
+  "price_expensive": 30,
+  "price_too_expensive": 45
+}

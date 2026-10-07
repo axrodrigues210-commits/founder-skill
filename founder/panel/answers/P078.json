@@ -1,0 +1,13 @@
+{
+  "id": "P078",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "It's a brand-new name with no reviews I can check, and $68 up front on my income is a lot to gamble on one creator's word. I'd rather keep grabbing a cheap bottle when I forget mine.",
+  "objection": "No track record. Who knows if the filter actually works or if the bottle leaks, and I don't want to get stuck in a filter subscription for something that might break in a month.",
+  "would_change_my_mind": "Hundreds of real reviews, and something like independent lab test results on the filter, plus a lower bottle price.",
+  "price_too_cheap": 10,
+  "price_cheap": 20,
+  "price_expensive": 32,
+  "price_too_expensive": 45
+}

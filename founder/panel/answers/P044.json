@@ -1,0 +1,13 @@
+{
+  "id": "P044",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "I already carry a reusable bottle and only really need a filter for hotel water a few times a year. Paying $63 for the bottle alone, or getting locked into a filter plan to make it $40, is too much on my budget for something I'd use that rarely.",
+  "objection": "The cheap price only comes with a subscription, and I know I'll forget to cancel it and keep paying for filters I don't use between trips.",
+  "would_change_my_mind": "A bottle-only price around $35 with free shipping, plus filters I can buy one at a time when I need them, no plan.",
+  "price_too_cheap": 12,
+  "price_cheap": 25,
+  "price_expensive": 40,
+  "price_too_expensive": 55
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P062",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I already have a bottle that works, and Claro is a brand I've never heard of with no reviews I can read. On my budget I'm not dropping $68 on a creator's say-so plus signing up for a filter subscription.",
+  "objection": "It's a brand-new brand with zero track record. A creator code isn't proof, and I can't tell if the filter actually does anything or if the bottle leaks.",
+  "would_change_my_mind": "Hundreds of verified reviews plus independent lab test results for the filter, and a way to buy the bottle once without a subscription at a lower price.",
+  "price_too_cheap": 12,
+  "price_cheap": 22,
+  "price_expensive": 35,
+  "price_too_expensive": 50
+}

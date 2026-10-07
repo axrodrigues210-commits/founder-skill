@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I already have a bottle that works for the gym, and this is a brand-new label with no reviews I can check. I'm not putting almost $70 down plus a subscription on a creator's say-so.",
+  "objection": "Zero track record: no hundreds of reviews, no independent test showing what the filter actually removes, and I don't need filtered water from the gym tap badly enough to gamble on it.",
+  "would_change_my_mind": "Several hundred verified reviews plus independent lab test results on the filter, ideally sold somewhere like Amazon where I can read them.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 40,
+  "price_too_expensive": 55
+}

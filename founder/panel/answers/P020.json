@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "I already carry a bottle I like and fill it from the tap, so I've mostly stopped buying bottled water anyway. Paying close to $70 up front plus a filter subscription to replace something that works isn't a good trade for me, and tossing a new bottle and a stream of plastic filters doesn't feel very green either.",
+  "objection": "I already have a bottle that works, and I don't know what these filters are made of, what they actually remove, or whether I can recycle them. A subscription for plastic cartridges feels like it cuts against why I care about this.",
+  "would_change_my_mind": "A filter I could buy on its own to fit my current bottle, or a recycling take-back for used filters plus clear independent test results on what it removes.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 40,
+  "price_too_expensive": 60
+}

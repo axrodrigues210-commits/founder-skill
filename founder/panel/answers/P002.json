@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I already have a LARQ that I'm happy with and it comes with me on the commute every day. I don't see what Claro does better, and I'm not paying $68 today plus a filter subscription to swap out a bottle that isn't broken.",
+  "objection": "It's an unknown brand shipping 5-8 working days from overseas, with filters I'd be locked into buying from them, and nothing shows me it beats the bottle I already own.",
+  "would_change_my_mind": "If my current bottle broke and the creator showed a real side-by-side test proving Claro filters better than my LARQ or Brita, with faster US shipping.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 45,
+  "price_too_expensive": 65
+}

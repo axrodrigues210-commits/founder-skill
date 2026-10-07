@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "The only sensible deal pushes me into a filter subscription, and I've been burned too many times by subs I couldn't get out of. Paying $49.99 plus $12.99 shipping for the bottle alone is $63 for a bottle from a brand I've never heard of, and then 5-8 days of waiting on top.",
+  "objection": "The pricing is built to herd me into a recurring plan. 'Cancel any time' is what every subscription says until you try to cancel, and I don't know this brand well enough to trust it.",
+  "would_change_my_mind": "Free shipping on the bottle by itself with no subscription, and filters I can buy one at a time whenever I need them, at around $40 all in.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 45,
+  "price_too_expensive": 60
+}

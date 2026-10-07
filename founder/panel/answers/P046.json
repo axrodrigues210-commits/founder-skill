@@ -1,0 +1,13 @@
+{
+  "id": "P046",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "It's a brand-new name I've never seen with zero reviews, and a creator post isn't proof. I'm not putting $68 and a subscription on a bottle when nothing tells me what the filter actually removes.",
+  "objection": "How do I know the filter actually does anything? 'Up to 150 L' from the supplier isn't lab testing, and there's no mention of certification or what contaminants it removes.",
+  "would_change_my_mind": "Independent lab test results or a recognized certification for the filter, plus a few hundred real customer reviews.",
+  "price_too_cheap": 15,
+  "price_cheap": 28,
+  "price_expensive": 50,
+  "price_too_expensive": 75
+}

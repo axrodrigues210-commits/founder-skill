@@ -1,0 +1,13 @@
+{
+  "id": "P028",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I already have a bottle that works, and Claro is a brand-new name with no reviews I can check. A creator plug isn't proof, and I'm not putting $68 plus a subscription on something nobody has tested.",
+  "objection": "There are no independent reviews and no lab results showing what the filter actually removes. All I have is the supplier's 150 L rating and a creator getting paid to show it to me.",
+  "would_change_my_mind": "Hundreds of verified reviews plus third-party test results (an NSF-type certification) showing what the filter removes from tap water.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 45,
+  "price_too_expensive": 65
+}

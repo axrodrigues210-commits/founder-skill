@@ -1,0 +1,13 @@
+{
+  "id": "P089",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "We already have a Brita at home and our tap water is fine, so filtering inside the bottle solves a problem I don't really have. Paying $68 up front and signing up for another filter subscription is exactly the kind of thing I've learned to avoid.",
+  "objection": "It's a subscription dressed up as a water bottle. I've been burned by stuff that says cancel any time and then isn't, and I don't need filtered water on the go when my tap water is fine.",
+  "would_change_my_mind": "Selling the bottle at the $39.99 price without a plan, with filters as one-off purchases, and free shipping, so there's nothing to cancel later.",
+  "price_too_cheap": 12,
+  "price_cheap": 22,
+  "price_expensive": 38,
+  "price_too_expensive": 55
+}

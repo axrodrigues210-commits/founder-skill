@@ -1,0 +1,13 @@
+{
+  "id": "P081",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I've never heard of Claro and there's nothing here about reviews or test results, just a creator code. I'm not dropping almost $68 on a brand-new bottle and a subscription on one creator's word.",
+  "objection": "The filter rating is just what the supplier says, and with zero reviews it could easily be a rebranded cheap bottle with a markup.",
+  "would_change_my_mind": "Hundreds of real customer reviews plus independent lab testing showing what the filter actually removes.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 40,
+  "price_too_expensive": 55
+}

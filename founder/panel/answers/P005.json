@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Nothing here tells me what the filter actually removes or shows any test results, so I'd be paying for a promise. And the pricing is clearly built to push me onto a subscription, since the bottle alone with shipping costs more than the plan, and I've been burned by that before.",
+  "objection": "How do I know the filter does anything? 'Up to 150 L' from the supplier isn't independent lab testing, and I don't want to start another subscription to find out.",
+  "would_change_my_mind": "Published independent lab results showing what the filter removes, plus a fair one-time price for the bottle with free shipping and spare filters I can buy without a plan.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 40,
+  "price_too_expensive": 55
+}

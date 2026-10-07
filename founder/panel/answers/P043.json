@@ -1,0 +1,13 @@
+{
+  "id": "P043",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I already have a Brita bottle that does the job fine, including on trips. Paying $68 up front plus a filter subscription to swap one filtered bottle for another isn't worth it to me.",
+  "objection": "It's another subscription I'll forget to cancel, from a brand I've never heard of, to replace a bottle I'm already happy with.",
+  "would_change_my_mind": "If my current bottle broke and Claro let me buy the bottle plus filters one-off at around $35 with no subscription and free shipping, I might try it.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 40,
+  "price_too_expensive": 55
+}

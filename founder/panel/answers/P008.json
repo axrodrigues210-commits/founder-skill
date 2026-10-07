@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "I like the idea of ditching bottled water, but $68 up front, or $63 for just the bottle once you add shipping, is a lot on my budget for something I'd carry on my commute. And it locks me into another subscription I'll probably forget about.",
+  "objection": "Paying close to $70 today and then getting billed every six months. I already have a reusable bottle, and I'm not sure a filter is worth that much to me.",
+  "would_change_my_mind": "If the bottle with a couple of filters came in around $35 total with free shipping and no subscription, so I could just reorder filters when I actually need them.",
+  "price_too_cheap": 12,
+  "price_cheap": 25,
+  "price_expensive": 40,
+  "price_too_expensive": 60
+}

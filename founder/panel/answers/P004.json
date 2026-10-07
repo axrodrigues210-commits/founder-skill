@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I'd be tempted because I follow the creator, but I only fight bad hotel water a few times a year, and nothing here tells me what the filter actually takes out. Paying almost $68 up front, or $63 for just the bottle with shipping, is too much on faith.",
+  "objection": "How do I know the filter actually does anything? 'Up to 150 L' is just a lifespan, not proof it removes chlorine or anything else.",
+  "would_change_my_mind": "Independent lab test results showing what the filter removes, plus seeing the creator actually use it on a trip for a while, not just a single unboxing.",
+  "price_too_cheap": 15,
+  "price_cheap": 28,
+  "price_expensive": 45,
+  "price_too_expensive": 60
+}

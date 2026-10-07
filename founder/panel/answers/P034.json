@@ -1,0 +1,13 @@
+{
+  "id": "P034",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "It's a brand-new name I've never seen, and a creator shout-out isn't the same as hundreds of real reviews. I'd also be signing up for a filter subscription I'd probably forget about, just to fix hotel water a few times a year.",
+  "objection": "No track record or independent proof the filter actually works as claimed, plus another auto-renewing plan I'll forget to cancel.",
+  "would_change_my_mind": "Hundreds of verified reviews and independent lab test results for the filter, with a one-time filter purchase option instead of a subscription.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 45,
+  "price_too_expensive": 65
+}

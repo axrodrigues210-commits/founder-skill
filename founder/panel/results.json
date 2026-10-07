@@ -1,0 +1,268 @@
+{
+ "business": "Claro: filtered water bottle sold online, with replacement filters on subscription",
+ "seed": 720018,
+ "dealt": 100,
+ "answered": 100,
+ "skipped": [],
+ "buys": 8,
+ "passes": 92,
+ "buy_rate": 0.08,
+ "by_segment": [
+  [
+   "Fitness and wellness regular",
+   30,
+   0.13333333333333333
+  ],
+  [
+   "Busy professional / commuter",
+   25,
+   0.12
+  ],
+  [
+   "Parent buying for the household",
+   10,
+   0.1
+  ],
+  [
+   "Student / early-career",
+   35,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Creator follower",
+   22,
+   0.3181818181818182
+  ],
+  [
+   "Eco-minded",
+   12,
+   0.08333333333333333
+  ],
+  [
+   "Subscription-wary",
+   14,
+   0.0
+  ],
+  [
+   "Loyal to a competitor",
+   12,
+   0.0
+  ],
+  [
+   "Reads every review",
+   15,
+   0.0
+  ],
+  [
+   "Deal hunter",
+   15,
+   0.0
+  ],
+  [
+   "Aesthetic buyer",
+   10,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$92,000 and up",
+   35,
+   0.11428571428571428
+  ],
+  [
+   "$54,000 to $92,000",
+   32,
+   0.09375
+  ],
+  [
+   "under $54,000",
+   33,
+   0.030303030303030304
+  ]
+ ],
+ "why_not": [
+  [
+   "trust",
+   33,
+   [
+    "I do want to quit bottled water, but I've never heard of Claro and all I get is a 'supplier rating' of 150 L. I'd rather pay about the same for a Brita or LARQ bottle I already know than risk a rebadged knockoff with a filter subscription stuck to it.",
+    "I'd be tempted because I follow the creator, but I only fight bad hotel water a few times a year, and nothing here tells me what the filter actually takes out. Paying almost $68 up front, or $63 for just the bottle with shipping, is too much on faith."
+   ],
+   [
+    "P003",
+    "P004"
+   ]
+  ],
+  [
+   "need",
+   23,
+   [
+    "I only hate the water a few times a year when I'm in a hotel, and I've got a Brita at home, so $68 up front plus a filter subscription is way too much for a problem I barely have. The cheaper route without a plan is still $63 with shipping, which is a lot on my income.",
+    "I already have a bottle that works fine, and I fill it from the gym fountain anyway. Sixty-eight bucks up front plus a subscription to keep it going is a lot for something I don't really need on $53k."
+   ],
+   [
+    "P015",
+    "P016"
+   ]
+  ],
+  [
+   "price",
+   21,
+   [
+    "I like the idea of ditching bottled water, but $68 up front, or $63 for just the bottle once you add shipping, is a lot on my budget for something I'd carry on my commute. And it locks me into another subscription I'll probably forget about.",
+    "Buying the bottle alone comes to $63 with that $13 shipping, which is ridiculous, and the only way around it is signing up for a filter subscription I know I'll forget to cancel. A 5% creator code isn't enough for me to pay $68 today for a gym bottle."
+   ],
+   [
+    "P008",
+    "P009"
+   ]
+  ],
+  [
+   "habit",
+   15,
+   [
+    "I already have a bottle I like, and my office and home tap water are fine. The only way to get the decent bottle price is to sign up for another filter subscription, and I've been burned by those before.",
+    "I already have a LARQ that I'm happy with and it comes with me on the commute every day. I don't see what Claro does better, and I'm not paying $68 today plus a filter subscription to swap out a bottle that isn't broken."
+   ],
+   [
+    "P001",
+    "P002"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "trust",
+   5,
+   [
+    "If a creator I actually trust is using it on camera, I'll grab the bottle-plus-filters bundle with the code. Sixty-eight bucks is nothing to me, and it beats paying for plastic bottles every week.",
+    "If a creator I actually follow is using it on camera, I'd probably grab the 3-pack plan with their code, since $49.99 plus $12.99 shipping for the bottle alone feels like a rip-off next to it. I'd set a reminder to check whether I want the renewal in six months."
+   ],
+   [
+    "P012",
+    "P027"
+   ]
+  ],
+  [
+   "need",
+   2,
+   [
+    "I hate the taste of hotel tap water and I already carry a bottle everywhere, so if a creator I trust is actually using this on camera I'd try it with their code. I'd go for the single-filter plan so I'm not paying $68 upfront for something I haven't tried.",
+    "I'm already burning maybe $25-30 a month on plastic bottles when I forget mine, and if a creator I actually trust is using it on camera I'll use the code and try the 3-pack plan. Around $65 up front stings a bit, but it pays for itself in a couple of months."
+   ],
+   [
+    "P038",
+    "P057"
+   ]
+  ],
+  [
+   "values",
+   1,
+   [
+    "I've been trying to quit buying bottled water at the gym and on my commute, and a filter bottle from a creator I trust is the push I need. I'd take the bottle with the single-filter plan so I'm not paying $68 up front, and cancel if the filters don't last."
+   ],
+   [
+    "P041"
+   ]
+  ]
+ ],
+ "flip": [
+  "A fair one-off price for the bottle with no plan (around $35 shipped) and filters I can buy one at a time without a subscription.",
+  "If my current bottle broke and the creator showed a real side-by-side test proving Claro filters better than my LARQ or Brita, with faster US shipping.",
+  "Independent certification (like NSF/ANSI) listing what the filter removes, plus real reviews from people who aren't paid creators",
+  "Independent lab test results showing what the filter removes, plus seeing the creator actually use it on a trip for a while, not just a single unboxing.",
+  "Published independent lab results showing what the filter removes, plus a fair one-time price for the bottle with free shipping and spare filters I can buy without a plan.",
+  "Several hundred verified reviews plus independent lab test results on the filter, ideally sold somewhere like Amazon where I can read them.",
+  "Free shipping on the bottle by itself with no subscription, and filters I can buy one at a time whenever I need them, at around $40 all in.",
+  "If the bottle with a couple of filters came in around $35 total with free shipping and no subscription, so I could just reorder filters when I actually need them.",
+  "Free shipping on the bottle by itself with no subscription, plus a real launch discount of 20% or more, so I'd get it for about $35-40 and buy filters only when I need them.",
+  "My LARQ breaking or getting lost, plus independent lab test results on the filter and real reviews from people who aren't paid to post about it.",
+  "The bottle on its own for around $25 with free shipping and no subscription, plus real reviews showing the filter actually makes tap water taste better.",
+  "If my current bottle broke and I could get the Claro bottle alone for around $30 with free shipping and no plan attached.",
+  "Free shipping on the bottle alone with no plan, and filters I can buy one-off whenever I want, so I'm not locked into anything.",
+  "A bottle under about $30 with free shipping and one-off filter packs I can buy when I need them, no subscription.",
+  "A bottle-plus-filter bundle under $35 shipped free with no subscription, or a real sale like 25% off.",
+  "Hundreds of verified reviews plus independent lab results showing what the filter removes, and being able to buy the bottle without a plan at the $39.99 price.",
+  "Free shipping on the bottle by itself with no plan, around $35-40 total, plus the option to buy single spare filters whenever I want instead of on a schedule.",
+  "Independent lab results showing what the filter removes, plus seeing the bottle in person or in real unfiltered photos so I know it actually looks good on my desk.",
+  "A filter I could buy on its own to fit my current bottle, or a recycling take-back for used filters plus clear independent test results on what it removes.",
+  "Proof the filter cartridges are recyclable or taken back, plus independent test results showing it removes something my tap or fountain water actually has in it.",
+  "If the bottle was around $25-30 with free shipping and no subscription, and I could just buy filters one-off when I need them.",
+  "A one-time bottle with filters I can buy whenever I want, no plan, around $30 shipped, and some proof the filter actually makes a difference over regular tap water.",
+  "A bigger creator discount, like 20% off, or the bottle on its own under $40 with free shipping so I could try it without signing up for a filter plan.",
+  "Being able to buy the bottle with a couple of spare filters as a one-time purchase, free shipping, no subscription, for around $45 with the creator's code.",
+  "Proof that the filters are recyclable or taken back, plus a test showing it removes something my Brita doesn't, at a bottle price closer to $30 with no subscription required.",
+  "Hundreds of verified reviews plus third-party test results (an NSF-type certification) showing what the filter removes from tap water.",
+  "Independent lab results or an NSF certification showing exactly what the filter removes, plus a no-questions return if I don't like it.",
+  "A bottle-only price around $30 with free shipping, and filters I can just buy once when I need them, no plan.",
+  "Independent lab results showing what the filter removes from tap water, plus seeing the bottle look good in a real gym setting.",
+  "A real discount, like 20-25% off the starter bundle, or a filter that fits my existing bottle so I'm not buying a whole new one.",
+  "Hundreds of verified reviews and independent lab test results for the filter, with a one-time filter purchase option instead of a subscription.",
+  "If the bottle looked genuinely great and I could get it alone for around $30 shipped with no subscription push.",
+  "Independent lab results or a recognised certification showing what the filter removes, plus a money-back guarantee if I don't notice a difference.",
+  "A real discount like 20-25% off plus free shipping on the bottle alone, no subscription required, getting it under about $35 delivered.",
+  "Seeing it in nice colorways that clearly look better than my current bottle, sold on its own with free shipping and no plan attached.",
+  "Independent test results or a certification showing what the filter removes, plus free shipping on the bottle alone without a subscription.",
+  "If my current bottle broke and Claro let me buy the bottle plus filters one-off at around $35 with no subscription and free shipping, I might try it.",
+  "A bottle-only price around $35 with free shipping, plus filters I can buy one at a time when I need them, no plan.",
+  "Selling filters as plain one-off buys at a fair price, with the bottle at $39.99 and no plan required.",
+  "Independent lab test results or a recognized certification for the filter, plus a few hundred real customer reviews.",
+  "Buying the bottle with free shipping and no subscription for around $35, with filters I can buy one at a time whenever I need them.",
+  "A real sale where the bottle with one filter costs under $25, ships free and doesn't need a subscription.",
+  "Hundreds of verified reviews plus independent lab results showing what the filter removes.",
+  "Published third-party lab test results (e.g. NSF certification) showing what the filter removes, plus a few hundred real verified reviews.",
+  "Seeing it in person or in real gym photos and actually loving the design, with a bottle-only price closer to $35 and shipping included.",
+  "A real discount, like 20-25% off or the bottle under $30 with free shipping and no subscription required.",
+  "Independent lab results showing what the filter removes, ideally the creator testing fountain water before and after on camera, plus a bigger first-order discount so the bottle with a filter costs about $40 total.",
+  "Independent lab test results on what the filter removes plus a bunch of real customer reviews from people at the gym, ideally with a money-back guarantee on the bottle.",
+  "A real discount, like the bottle under $30 with free shipping and no subscription required, or a big sale code from the creator.",
+  "A real discount through the creator's code, like 20-25% off or the bottle under $30 with a filter included and no subscription required.",
+  "If the bottle on its own came in under $30 with free shipping, no subscription, and a design that actually looks good on my desk",
+  "Hundreds of verified reviews and independent filter test results, plus being able to buy the bottle and filters one-off without signing up for a plan.",
+  "A bottle under $30 with free shipping and filters I can buy one-off whenever I want, no subscription.",
+  "Hundreds of verified reviews plus independent lab test results for the filter, and a way to buy the bottle once without a subscription at a lower price.",
+  "A filter that fits into the bottle I already own, or a travel-only option without a subscription, like a bottle plus a couple of filters I buy once with no plan.",
+  "Independent lab results or a certification showing what the filter removes, plus a no-questions return so I could try it against my LARQ.",
+  "A bigger creator code that gets the bottle with one filter under $30, with no subscription needed.",
+  "If my current bottle broke and this was around $25 all-in with no subscription required, I might try it.",
+  "If my current bottle broke and a creator I trust showed a real side-by-side test proving Claro filters better than what I have, at around $35 for the bottle with no subscription required.",
+  "A one-off bundle, say bottle plus 2 filters for around $45 shipped with no subscription, or seeing the creator actually use it for months, not just in one sponsored post.",
+  "Hundreds of real customer reviews plus independent lab test results showing what the filter removes.",
+  "My current bottle breaking, and Claro selling the bottle and filters one-off with no subscription for around $35.",
+  "Seeing it in a really pretty colorway in the creator's daily routine, with a one-off bottle price around $40 with free shipping and no subscription needed.",
+  "Proof from an independent lab that it actually takes out more than my current bottle, like the chlorine and off taste in hotel tap water, plus a bottle-only price under $35 with shipping included and no subscription.",
+  "If the bottle alone was around $30 with free shipping and no subscription, I'd probably grab it with the creator's code as an impulse buy.",
+  "A real discount that gets the bottle plus a filter under about $30 shipped, with no subscription.",
+  "A bottle with one filter for around $30 with free shipping and no subscription, plus filters I can buy one at a time when I need them.",
+  "If my Stanley broke and I could get the bottle alone for around $30 with free shipping and no subscription.",
+  "Seeing real unboxing and desk/gym photos from a few different people, plus a cheaper way to try just the bottle without the $13 shipping.",
+  "Hundreds of real reviews, and something like independent lab test results on the filter, plus a lower bottle price.",
+  "If the creator dropped a much bigger code, like the bottle for around $25 with a couple of filters and no subscription required.",
+  "Independent lab test results for the filter and a no-questions return on the bottle, or seeing the creator still using it on camera a couple of months later rather than just in one sponsored post.",
+  "Hundreds of real customer reviews plus independent lab testing showing what the filter actually removes.",
+  "Hundreds of verified reviews plus independent lab or NSF certification of what the filter actually removes.",
+  "Independent lab results showing what the filter removes, plus a bottle-only price under about $35 without having to sign up for a filter plan.",
+  "Hundreds of verified reviews plus independent lab results showing what the filter actually removes.",
+  "Independent lab results or a recognised certification showing what the filter removes, plus seeing the bottle in person and liking how it looks next to my gym bag.",
+  "If the creator showed it in a colour or design that's genuinely prettier than what I carry, and I could get the bottle alone for around $30 shipped without a subscription.",
+  "A real sale getting the bottle with a couple filters under $30 shipped, no subscription required.",
+  "Independent lab results showing what the filter actually removes, plus a no-questions return if I don't like it versus my LARQ.",
+  "Selling the bottle at the $39.99 price without a plan, with filters as one-off purchases, and free shipping, so there's nothing to cancel later.",
+  "Published third-party lab test results (e.g. NSF certification) plus a few hundred real customer reviews.",
+  "Seeing independent lab or certification results for what the filter removes, plus the creator actually using it on camera while travelling for a few weeks, would get me to try the single-filter plan.",
+  "Seeing the creator show a real taste or contaminant difference on regular city tap water, plus a bigger first-order discount than 5% so it feels worth trying on a whim.",
+  "A bottle-only price around $25 with free shipping and no subscription, plus a decent launch code like 25% off.",
+  "A real creator discount (20% or more) or the bottle with a filter at around $30 with no subscription required.",
+  "A bottle under $35 with free shipping and filters I can buy one-off as I need them, no plan required.",
+  "Independent lab test results for the filter plus free shipping on the bottle alone, with filters I can buy one-off with no subscription.",
+  "Bottle alone around $35 with free shipping and filters I can buy one at a time when I need them, no subscription, or a bigger discount code than 5%.",
+  "Seeing the creator use it on camera for a few weeks, plus real customer reviews or independent lab results showing what the filter actually removes.",
+  "A real sale where the bottle with one filter comes to around $30 shipped and there's no subscription, or a much bigger discount code than 5%.",
+  "Selling the bottle on its own for around $40 with free shipping and letting me buy filters one-off when I need them, with no subscription required."
+ ],
+ "purchases_first_month_per_buyer": 1.0,
+ "price_answers": 100
+}

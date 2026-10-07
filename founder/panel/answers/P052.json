@@ -1,0 +1,13 @@
+{
+  "id": "P052",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "I already carry a bottle I like to the gym four times a week and I fill it at the fountain without thinking twice. Nothing here tells me this one looks better than what I have, and a filter subscription is one more charge on the card for a problem I don't really have.",
+  "objection": "I'm paying $68 today for a bottle I've never seen in person, from a brand nobody's heard of, and then waiting over a week for it to ship. The filters make it feel like a commitment, not just a nice bottle.",
+  "would_change_my_mind": "Seeing it in person or in real gym photos and actually loving the design, with a bottle-only price closer to $35 and shipping included.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 45,
+  "price_too_expensive": 65
+}

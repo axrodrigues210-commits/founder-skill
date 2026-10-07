@@ -1,0 +1,13 @@
+{
+  "id": "P056",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Almost $68 today, plus a filter plan that keeps charging me, is a lot when tap water is fine and I already have a Brita at home. A 5% code barely covers anything, and $12.99 shipping on the bottle by itself feels like a trap to get me into the subscription.",
+  "objection": "I'd be paying for filters forever just to drink the same water I already filter at home, and I can't tell if it's any better than a $10 bottle plus my Brita.",
+  "would_change_my_mind": "A real discount, like the bottle under $30 with free shipping and no subscription required, or a big sale code from the creator.",
+  "price_too_cheap": 10,
+  "price_cheap": 20,
+  "price_expensive": 32,
+  "price_too_expensive": 45
+}

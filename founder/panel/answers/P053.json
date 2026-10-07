@@ -1,0 +1,13 @@
+{
+  "id": "P053",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Almost $68 today for a bottle and filters, with only a 5% code, is way more than I'd pay when I can get a filtered bottle on Amazon for around $20-30 with free fast shipping. I'd screenshot it and wait for a real sale.",
+  "objection": "The no-plan price is basically $63 with shipping, so I'm pushed into a subscription just to avoid shipping, and then I wait over a week for it to arrive.",
+  "would_change_my_mind": "A real discount, like 20-25% off or the bottle under $30 with free shipping and no subscription required.",
+  "price_too_cheap": 12,
+  "price_cheap": 25,
+  "price_expensive": 40,
+  "price_too_expensive": 55
+}

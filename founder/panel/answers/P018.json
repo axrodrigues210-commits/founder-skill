@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "I only really need filtered water a few times a year when I travel, so a filter subscription makes no sense for me, and buying the bottle alone means $49.99 plus $12.99 shipping, which is basically $63 for a water bottle. A 5% code doesn't come close to fixing that.",
+  "objection": "It's another subscription I'll forget to cancel, paying for filters that expire on a 2-month clock while the bottle sits in my cupboard between trips. And $12.99 shipping on a bottle with no plan feels like a penalty to push me into the subscription.",
+  "would_change_my_mind": "Free shipping on the bottle by itself with no plan, around $35-40 total, plus the option to buy single spare filters whenever I want instead of on a schedule.",
+  "price_too_cheap": 12,
+  "price_cheap": 25,
+  "price_expensive": 40,
+  "price_too_expensive": 55
+}

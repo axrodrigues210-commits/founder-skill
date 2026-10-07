@@ -1,0 +1,13 @@
+{
+  "id": "P054",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I like the creator, but $68 up front plus a subscription is a lot on my budget for a bottle when I already fill up free at the fountain. Nothing here shows me the filter actually removes anything, and 5% off doesn't move me.",
+  "objection": "How do I know the filter actually does anything? There's no test result or lab data, just 'rated up to 150 L' from a supplier I've never heard of.",
+  "would_change_my_mind": "Independent lab results showing what the filter removes, ideally the creator testing fountain water before and after on camera, plus a bigger first-order discount so the bottle with a filter costs about $40 total.",
+  "price_too_cheap": 12,
+  "price_cheap": 25,
+  "price_expensive": 40,
+  "price_too_expensive": 55
+}

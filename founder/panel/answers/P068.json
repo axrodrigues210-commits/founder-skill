@@ -1,0 +1,13 @@
+{
+  "id": "P068",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Almost $68 today for a water bottle is a lot when I already own a reusable one I just forget at home. A filter doesn't fix my forgetting, and the creator code only takes about three bucks off.",
+  "objection": "The cheap price only comes with a filter subscription, and I just know I'll forget to cancel and keep paying for filters I don't use. Without the plan it's $63 with shipping, which is worse.",
+  "would_change_my_mind": "A one-off bundle, say bottle plus 2 filters for around $45 shipped with no subscription, or seeing the creator actually use it for months, not just in one sponsored post.",
+  "price_too_cheap": 12,
+  "price_cheap": 25,
+  "price_expensive": 40,
+  "price_too_expensive": 60
+}

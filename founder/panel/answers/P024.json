@@ -1,0 +1,13 @@
+{
+  "id": "P024",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "I like that the creator uses it, but $68 today for a water bottle plus filters is a lot on my budget, and the cheaper way still costs $63 with shipping. I already have a reusable bottle that works fine, so I'd save it and probably forget about it.",
+  "objection": "It's almost $70 up front and then it keeps billing me for filters, and I'd still be waiting over a week for it to show up.",
+  "would_change_my_mind": "A bigger creator discount, like 20% off, or the bottle on its own under $40 with free shipping so I could try it without signing up for a filter plan.",
+  "price_too_cheap": 12,
+  "price_cheap": 25,
+  "price_expensive": 40,
+  "price_too_expensive": 55
+}

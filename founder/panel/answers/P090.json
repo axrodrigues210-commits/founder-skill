@@ -1,0 +1,13 @@
+{
+  "id": "P090",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "It's a brand-new brand with no reviews and no lab results I can see, and I'm not dropping $68 plus a subscription on the word of one creator. I'd rather spend a bit less on a filter bottle that has thousands of reviews.",
+  "objection": "How do I know the filter actually does anything? There's no independent test or certification mentioned, just the supplier's 150 L rating.",
+  "would_change_my_mind": "Published third-party lab test results (e.g. NSF certification) plus a few hundred real customer reviews.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 40,
+  "price_too_expensive": 60
+}

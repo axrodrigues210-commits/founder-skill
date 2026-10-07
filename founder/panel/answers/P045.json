@@ -1,0 +1,13 @@
+{
+  "id": "P045",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "The cheap way in is a filter subscription from a brand I've never heard of, and I've been burned too many times by 'cancel any time'. Paying $63 for the bottle alone with shipping, just to dodge the plan, is too much when the gym tap water is fine for me.",
+  "objection": "Another subscription I'll forget to cancel, and if this new brand goes quiet I'm stuck with a bottle that needs their filters.",
+  "would_change_my_mind": "Selling filters as plain one-off buys at a fair price, with the bottle at $39.99 and no plan required.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 40,
+  "price_too_expensive": 55
+}

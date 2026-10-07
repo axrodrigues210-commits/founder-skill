@@ -1,0 +1,13 @@
+{
+  "id": "P051",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "It's a brand-new brand with no reviews I can see and no lab results, just a creator pushing a code. I'm not putting $68 down and signing up for a filter subscription on a vibe.",
+  "objection": "How do I know the filter actually does anything? Nothing here says what it removes or shows independent testing, and 'the supplier rates it' isn't proof.",
+  "would_change_my_mind": "Published third-party lab test results (e.g. NSF certification) showing what the filter removes, plus a few hundred real verified reviews.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 45,
+  "price_too_expensive": 65
+}

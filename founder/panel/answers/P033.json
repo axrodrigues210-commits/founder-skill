@@ -1,0 +1,13 @@
+{
+  "id": "P033",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I already have a bottle I use every day, and hotel tap water is only a problem a few times a year. Sixty-eight bucks up front plus a filter subscription for that is hard to justify, and 5% off barely counts as a deal.",
+  "objection": "I'd be paying for a whole new bottle and signing up for recurring filters when the bottle I own works fine. $12.99 shipping on the bottle alone is a dealbreaker, so they're basically pushing me into a subscription.",
+  "would_change_my_mind": "A real discount, like 20-25% off the starter bundle, or a filter that fits my existing bottle so I'm not buying a whole new one.",
+  "price_too_cheap": 12,
+  "price_cheap": 25,
+  "price_expensive": 40,
+  "price_too_expensive": 60
+}

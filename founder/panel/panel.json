@@ -1,0 +1,102 @@
+{
+ "n": 100,
+ "seed": 720018,
+ "customer": {
+  "business": "Claro: filtered water bottle sold online, with replacement filters on subscription",
+  "target": "US adults, 22 to 45, who carry a reusable bottle most days and buy from social media creators they follow",
+  "where": "United States, online (Shopify), found through Instagram and TikTok creators",
+  "age": [
+   22,
+   45
+  ],
+  "segments": [
+   {
+    "name": "Student / early-career",
+    "share": 0.35,
+    "income": [
+     25000,
+     60000
+    ]
+   },
+   {
+    "name": "Fitness and wellness regular",
+    "share": 0.3,
+    "income": [
+     45000,
+     110000
+    ]
+   },
+   {
+    "name": "Busy professional / commuter",
+    "share": 0.25,
+    "income": [
+     70000,
+     160000
+    ]
+   },
+   {
+    "name": "Parent buying for the household",
+    "share": 0.1,
+    "income": [
+     60000,
+     140000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Creator follower",
+    "share": 0.22,
+    "how": "Buys things a creator they trust uses on camera, often with their code."
+   },
+   {
+    "name": "Deal hunter",
+    "share": 0.15,
+    "how": "Compares prices, waits for discount codes, hates paying shipping."
+   },
+   {
+    "name": "Reads every review",
+    "share": 0.15,
+    "how": "Won't buy a new brand without hundreds of reviews and some proof."
+   },
+   {
+    "name": "Loyal to a competitor",
+    "share": 0.12,
+    "how": "Already owns a LARQ, Brita or Stanley and is happy enough with it."
+   },
+   {
+    "name": "Subscription-wary",
+    "share": 0.14,
+    "how": "Has been burned by hard-to-cancel subscriptions and avoids new ones."
+   },
+   {
+    "name": "Eco-minded",
+    "share": 0.12,
+    "how": "Wants to stop buying bottled water and cares about plastic waste."
+   },
+   {
+    "name": "Aesthetic buyer",
+    "share": 0.1,
+    "how": "Buys the bottle that looks good in the gym or on the desk."
+   }
+  ],
+  "objections": [
+   "I already have a bottle that works",
+   "How do I know the filter actually does anything?",
+   "Another subscription I'll forget to cancel",
+   "Never heard of this brand, it might be a cheap knockoff",
+   "My tap water is fine, or I already have a Brita at home",
+   "$40-50 is a lot for a water bottle",
+   "4-8 day shipping from overseas is slow"
+  ],
+  "habits": [
+   "you take a bottle to the gym four times a week",
+   "you refill at office or campus water fountains",
+   "you scroll TikTok or Instagram every evening",
+   "you buy a few plastic water bottles a week when you forget yours",
+   "you commute about 40 minutes each way",
+   "you travel a few times a year and dislike the taste of hotel tap water"
+  ]
+ },
+ "pitch": "Claro, a new filtered water bottle brand sold online (claro store on Shopify), shown to you by a creator you follow.\nA bottle with a replaceable filter inside; the supplier rates each filter at up to 150 L or 2 months.\nBottle on its own: $49.99 plus $12.99 shipping. With a filter plan the bottle is $39.99 and ships free.\nFilter plans: a 3-pack every 6 months for $27.99, or a single filter every 2 months for $15.29. Renewals ship free; cancel any time.\nOn the 3-pack plan you pay $67.98 today and get the bottle plus 3 spare filters.\nCreator code: 5% off your first order. Delivery 5-8 working days."
+}

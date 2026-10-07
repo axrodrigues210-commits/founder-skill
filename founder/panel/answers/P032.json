@@ -1,0 +1,13 @@
+{
+  "id": "P032",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "I fill up at the office fountain and the water's fine, so I'm not sure what problem a filter solves for me. And I can't buy a bottle for how it looks when the post never even shows me the bottle, and $68 today plus filters forever is a lot for something I can't see.",
+  "objection": "How do I know the filter actually does anything? 'Up to 150 L' from the supplier isn't a test result. Without lab data on what it removes, I'm paying for a subscription to a placebo.",
+  "would_change_my_mind": "Independent lab results showing what the filter removes from tap water, plus seeing the bottle look good in a real gym setting.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 40,
+  "price_too_expensive": 55
+}

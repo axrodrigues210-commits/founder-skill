@@ -1,0 +1,13 @@
+{
+  "id": "P082",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I've never heard of Claro, there's no mention of reviews or independent testing, and a creator plug alone isn't proof. I only travel a few times a year, so I'm not locking into a filter subscription with a brand I can't vet.",
+  "objection": "It's a brand-new Shopify store with zero track record. 'The supplier rates each filter' isn't third-party certification, and for all I know it's a rebadged generic bottle I could find cheaper elsewhere.",
+  "would_change_my_mind": "Hundreds of verified reviews plus independent lab or NSF certification of what the filter actually removes.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 45,
+  "price_too_expensive": 65
+}

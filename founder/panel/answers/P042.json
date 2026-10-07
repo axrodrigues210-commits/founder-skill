@@ -1,0 +1,13 @@
+{
+  "id": "P042",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I can afford it, but nothing here tells me what the filter actually removes. On top of that, the only way to avoid $13 shipping is to sign up for another subscription, and I stopped doing that after getting burned.",
+  "objection": "How do I know the filter actually does anything? 'Rated up to 150 L' by the supplier isn't independent lab testing or a certification, and a creator code doesn't make me trust it more.",
+  "would_change_my_mind": "Independent test results or a certification showing what the filter removes, plus free shipping on the bottle alone without a subscription.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 50,
+  "price_too_expensive": 70
+}

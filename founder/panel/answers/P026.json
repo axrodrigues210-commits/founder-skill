@@ -1,0 +1,13 @@
+{
+  "id": "P026",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "I already carry a reusable bottle and fill it from my Brita at home, so I'm not buying bottled water to begin with. Paying almost $68 today plus a filter subscription on my income is a lot just to filter water I'm already okay drinking.",
+  "objection": "I don't see what this does that my Brita and my current bottle don't, and a subscription that keeps shipping plastic filter cartridges doesn't feel any greener than what I have now.",
+  "would_change_my_mind": "Proof that the filters are recyclable or taken back, plus a test showing it removes something my Brita doesn't, at a bottle price closer to $30 with no subscription required.",
+  "price_too_cheap": 12,
+  "price_cheap": 22,
+  "price_expensive": 38,
+  "price_too_expensive": 55
+}

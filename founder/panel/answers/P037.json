@@ -1,0 +1,13 @@
+{
+  "id": "P037",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Forty bucks for a bottle plus $28 in filters just to get free shipping, for a brand I've never heard of, with a measly 5% code? I'd rather keep buying a few water bottles when I forget mine, or grab a filter bottle on sale somewhere with fast free shipping.",
+  "objection": "The bottle alone is $49.99 and then they want $12.99 shipping on top, which feels like they're forcing me into a subscription. And a week-plus wait for a brand with no track record doesn't help.",
+  "would_change_my_mind": "A real discount like 20-25% off plus free shipping on the bottle alone, no subscription required, getting it under about $35 delivered.",
+  "price_too_cheap": 10,
+  "price_cheap": 22,
+  "price_expensive": 35,
+  "price_too_expensive": 50
+}

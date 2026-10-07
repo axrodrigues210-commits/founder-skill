@@ -1,0 +1,13 @@
+{
+  "id": "P061",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "I already have a Brita at home and my tap water is fine, so I'd be paying $68 to fix a problem I don't really have. And the good price only works if I sign up for another filter subscription, which is exactly the thing I keep getting burned by.",
+  "objection": "The bottle alone is basically $63 with shipping, so they're pushing me into a filter plan, and I don't trust 'cancel any time' until I've actually tried cancelling.",
+  "would_change_my_mind": "A bottle under $30 with free shipping and filters I can buy one-off whenever I want, no subscription.",
+  "price_too_cheap": 10,
+  "price_cheap": 20,
+  "price_expensive": 35,
+  "price_too_expensive": 50
+}

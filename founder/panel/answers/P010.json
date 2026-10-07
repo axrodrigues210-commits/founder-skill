@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I already have a LARQ I'm happy with and it comes on my commute every day. I don't need a second filtered bottle, especially from a brand I'd never heard of until this video.",
+  "objection": "Never heard of Claro, so it could just be a rebranded cheap bottle with a creator code on it, and I'd be paying $68 up front plus signing up for a filter subscription to find out.",
+  "would_change_my_mind": "My LARQ breaking or getting lost, plus independent lab test results on the filter and real reviews from people who aren't paid to post about it.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 45,
+  "price_too_expensive": 65
+}

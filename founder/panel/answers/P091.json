@@ -1,0 +1,13 @@
+{
+  "id": "P091",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I do trust the creator, but I've never heard of Claro and nothing here tells me what the filter actually removes. Nearly $68 up front plus a subscription for something I'd mainly use on a few trips a year is a lot to put on an unknown brand.",
+  "objection": "It might be a generic white-label bottle with a new logo on it. 'The supplier rates it at 150 L' isn't independent testing, and I don't want to be stuck in a filter subscription for a knockoff.",
+  "would_change_my_mind": "Seeing independent lab or certification results for what the filter removes, plus the creator actually using it on camera while travelling for a few weeks, would get me to try the single-filter plan.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 50,
+  "price_too_expensive": 70
+}

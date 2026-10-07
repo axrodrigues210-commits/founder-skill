@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Buying the bottle alone comes to $63 with that $13 shipping, which is ridiculous, and the only way around it is signing up for a filter subscription I know I'll forget to cancel. A 5% creator code isn't enough for me to pay $68 today for a gym bottle.",
+  "objection": "They're using free shipping to push me into a subscription. I'd end up paying for filters I never asked for long after I've stopped using the bottle.",
+  "would_change_my_mind": "Free shipping on the bottle by itself with no subscription, plus a real launch discount of 20% or more, so I'd get it for about $35-40 and buy filters only when I need them.",
+  "price_too_cheap": 12,
+  "price_cheap": 25,
+  "price_expensive": 40,
+  "price_too_expensive": 55
+}

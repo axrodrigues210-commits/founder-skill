@@ -1,0 +1,13 @@
+{
+  "id": "P092",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "I trust the creator and the money isn't the issue, but I already carry a bottle I like and the tap water at home and work tastes fine. I'd be paying for a filter subscription to fix a problem I don't really have.",
+  "objection": "I already have a bottle that works, and signing up for filters every few months feels like a recurring charge for something I won't notice.",
+  "would_change_my_mind": "Seeing the creator show a real taste or contaminant difference on regular city tap water, plus a bigger first-order discount than 5% so it feels worth trying on a whim.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 55,
+  "price_too_expensive": 80
+}

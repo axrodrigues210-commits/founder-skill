@@ -1,0 +1,13 @@
+{
+  "id": "P069",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I've never heard of Claro and there's nothing here about reviews or test results, just a creator I follow saying it's good. On $26k a year I'm not putting almost $68 down plus a subscription on a brand that could be a rebranded knockoff.",
+  "objection": "No reviews and no proof the filter actually does what it says. 'Supplier rates it at 150 L' isn't independent testing, and I don't want to get locked into a filter subscription for something that might not even taste better than hotel tap water.",
+  "would_change_my_mind": "Hundreds of real customer reviews plus independent lab test results showing what the filter removes.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 40,
+  "price_too_expensive": 55
+}

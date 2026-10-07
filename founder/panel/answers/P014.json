@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "The deal is clearly built to push me into a filter subscription, and I've been burned by those enough times that I won't start a new one for a gym bottle. Paying $49.99 plus $12.99 shipping to skip the plan puts it over $60, which is too much for a bottle filled from the gym fountain, and then I'd still have to wait 5-8 days.",
+  "objection": "The real price only works if I sign up for a recurring filter plan, and 'cancel any time' is what every hard-to-cancel subscription says. Without the plan I'm paying $13 shipping on top of $50.",
+  "would_change_my_mind": "Free shipping on the bottle alone with no plan, and filters I can buy one-off whenever I want, so I'm not locked into anything.",
+  "price_too_cheap": 15,
+  "price_cheap": 28,
+  "price_expensive": 42,
+  "price_too_expensive": 58
+}

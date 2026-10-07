@@ -1,0 +1,13 @@
+{
+  "id": "P100",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "The bottle alone is about $63 shipped, so the only sensible price is the one that locks me into a filter subscription from a brand I've never heard of. I've been burned by 'cancel any time' before, and I'm not starting a new subscription just to get a fair bottle price, then waiting over a week for it.",
+  "objection": "The deal is built to push me into a recurring plan. $49.99 plus $12.99 shipping for the bottle on its own feels like a penalty for not subscribing, and I don't trust an unknown store to make cancelling easy.",
+  "would_change_my_mind": "Selling the bottle on its own for around $40 with free shipping and letting me buy filters one-off when I need them, with no subscription required.",
+  "price_too_cheap": 15,
+  "price_cheap": 28,
+  "price_expensive": 45,
+  "price_too_expensive": 60
+}

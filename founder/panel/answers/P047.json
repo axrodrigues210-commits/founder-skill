@@ -1,0 +1,13 @@
+{
+  "id": "P047",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "I already have a bottle that works, and the hotel tap water thing only bugs me a few times a year. Paying $50 plus $13 shipping for the bottle alone, or signing up for yet another filter subscription, isn't worth it for a handful of trips.",
+  "objection": "The cheap way in is a subscription, and I've been burned by ones that were a pain to cancel. 'Cancel any time' is what they all say.",
+  "would_change_my_mind": "Buying the bottle with free shipping and no subscription for around $35, with filters I can buy one at a time whenever I need them.",
+  "price_too_cheap": 12,
+  "price_cheap": 25,
+  "price_expensive": 40,
+  "price_too_expensive": 55
+}

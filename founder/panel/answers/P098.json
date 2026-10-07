@@ -1,0 +1,13 @@
+{
+  "id": "P098",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I do buy what my creators use, but this is a brand I've never heard of, and $68 today plus a filter subscription is a lot to bet on one sponsored video. I'd want to see the creator actually using it for weeks, not just one ad read.",
+  "objection": "It might be a generic bottle with a new logo on it. There's no reviews and no brand history, and I don't know if the filter actually does anything or if it's just a way to lock me into a subscription.",
+  "would_change_my_mind": "Seeing the creator use it on camera for a few weeks, plus real customer reviews or independent lab results showing what the filter actually removes.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 45,
+  "price_too_expensive": 65
+}

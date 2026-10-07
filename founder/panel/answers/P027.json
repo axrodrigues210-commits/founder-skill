@@ -1,0 +1,13 @@
+{
+  "id": "P027",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "trust",
+  "reason": "If a creator I actually follow is using it on camera, I'd probably grab the 3-pack plan with their code, since $49.99 plus $12.99 shipping for the bottle alone feels like a rip-off next to it. I'd set a reminder to check whether I want the renewal in six months.",
+  "objection": "It's another subscription I'll forget to cancel, and I'm not sure a filter in a bottle is worth it when I mostly just forget my bottle at home anyway.",
+  "would_change_my_mind": "If cancelling took more than one click or the first filters tasted off, I'd cancel and not reorder.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 55,
+  "price_too_expensive": 75
+}

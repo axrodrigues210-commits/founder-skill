@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "I only hate the water a few times a year when I'm in a hotel, and I've got a Brita at home, so $68 up front plus a filter subscription is way too much for a problem I barely have. The cheaper route without a plan is still $63 with shipping, which is a lot on my income.",
+  "objection": "The deal only looks decent if I sign up for a filter plan, and I've been burned by subscriptions that were a pain to cancel. Filters every 2 months make no sense for someone who travels a few times a year.",
+  "would_change_my_mind": "A bottle under about $30 with free shipping and one-off filter packs I can buy when I need them, no subscription.",
+  "price_too_cheap": 10,
+  "price_cheap": 20,
+  "price_expensive": 35,
+  "price_too_expensive": 50
+}

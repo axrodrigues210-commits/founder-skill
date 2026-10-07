@@ -1,0 +1,13 @@
+{
+  "id": "P093",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "I fill my bottle from the tap or my Brita before the gym, so the water's already fine. Paying almost $68 up front and then signing up for filter refills for something I don't really need isn't happening.",
+  "objection": "I don't need filtered water on the go, and the cheap way in is a subscription. 5% off is basically nothing, and $12.99 shipping if I skip the plan is ridiculous.",
+  "would_change_my_mind": "A bottle-only price around $25 with free shipping and no subscription, plus a decent launch code like 25% off.",
+  "price_too_cheap": 12,
+  "price_cheap": 22,
+  "price_expensive": 35,
+  "price_too_expensive": 50
+}

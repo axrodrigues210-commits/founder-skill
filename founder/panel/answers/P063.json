@@ -1,0 +1,13 @@
+{
+  "id": "P063",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "I already carry a bottle I like every day, and the tap water at home is fine. The only time I'd want a filter is a few hotel trips a year, and that doesn't justify $68 up front plus a filter subscription.",
+  "objection": "I'd be paying for another bottle and an ongoing filter plan to fix a problem I have maybe a handful of days a year, and a new bottle plus plastic filter cartridges every two months doesn't feel that eco to me.",
+  "would_change_my_mind": "A filter that fits into the bottle I already own, or a travel-only option without a subscription, like a bottle plus a couple of filters I buy once with no plan.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 50,
+  "price_too_expensive": 70
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P085",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Money isn't the issue, but nothing here tells me the filter actually removes anything. All I see is a supplier rating for how long it lasts, and I'm not signing up for a subscription to a filter I can't verify. I already have a bottle I like carrying to the gym.",
+  "objection": "How do I know the filter actually does anything? There's no independent test or certification, just a rating for how many litres it lasts.",
+  "would_change_my_mind": "Independent lab results or a recognised certification showing what the filter removes, plus seeing the bottle in person and liking how it looks next to my gym bag.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 55,
+  "price_too_expensive": 80
+}

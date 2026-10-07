@@ -1,0 +1,13 @@
+{
+  "id": "P036",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I like the idea of ditching bottled water, but all I've been told is that the supplier says a filter lasts 150 L. Nothing says what it actually removes, so I'm not paying $68 up front plus a subscription for a filter that might just be a fancy straw. My current bottle and the gym tap do the job for now.",
+  "objection": "How do I know the filter actually does anything? There's no independent lab test or certification, only the supplier's own rating on how long it lasts, and a creator code doesn't prove anything.",
+  "would_change_my_mind": "Independent lab results or a recognised certification showing what the filter removes, plus a money-back guarantee if I don't notice a difference.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 45,
+  "price_too_expensive": 65
+}

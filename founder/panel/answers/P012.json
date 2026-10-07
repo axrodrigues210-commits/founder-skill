@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "trust",
+  "reason": "If a creator I actually trust is using it on camera, I'll grab the bottle-plus-filters bundle with the code. Sixty-eight bucks is nothing to me, and it beats paying for plastic bottles every week.",
+  "objection": "5-8 working days is basically two weeks, and that's slow for a water bottle. I'm also wary of signing up for a filter subscription and forgetting to cancel it.",
+  "would_change_my_mind": "If it took more than a week to ship, or the creator's endorsement turned out to be a paid one-off and not something they really use, I'd skip it.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 60,
+  "price_too_expensive": 90
+}

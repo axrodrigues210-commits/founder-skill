@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Fifty bucks for a bottle isn't the issue for me. But nothing here tells me what the filter actually takes out, and I'm not signing up for a filter subscription on a creator's say-so. I already have a bottle I like on my desk, so this would have to be clearly better looking and proven to work.",
+  "objection": "How do I know the filter actually does anything? 'Up to 150 L' from the supplier isn't a lab test, and I'd basically be paying a subscription for a mystery cartridge.",
+  "would_change_my_mind": "Independent lab results showing what the filter removes, plus seeing the bottle in person or in real unfiltered photos so I know it actually looks good on my desk.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 55,
+  "price_too_expensive": 75
+}

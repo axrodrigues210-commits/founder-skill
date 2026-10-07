@@ -1,0 +1,13 @@
+{
+  "id": "P075",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "I just fill my bottle at the gym fountain, so paying about $65 up front and then signing up for a filter subscription is too much for something I don't really need. And $13 shipping on the bottle alone is a dealbreaker for me.",
+  "objection": "It's another subscription I'll forget to cancel, and the bottle only gets cheap if I sign up for the filter plan. A 5% code is barely a discount.",
+  "would_change_my_mind": "A bottle with one filter for around $30 with free shipping and no subscription, plus filters I can buy one at a time when I need them.",
+  "price_too_cheap": 10,
+  "price_cheap": 22,
+  "price_expensive": 35,
+  "price_too_expensive": 50
+}

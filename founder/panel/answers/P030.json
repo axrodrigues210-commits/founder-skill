@@ -1,0 +1,13 @@
+{
+  "id": "P030",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "trust",
+  "reason": "If a creator I actually follow is using it on camera every day, I'll grab the 3-pack plan with their code. About $65 is nothing for me, and I already carry a bottle anyway. I'd cancel the plan if the filter turns out to be a gimmick.",
+  "objection": "Nothing here tells me what the filter actually removes. 'Up to 150 L' is the supplier's rating, not a lab test, so I could be paying for a fancy bottle with a sponge in it.",
+  "would_change_my_mind": "A real third-party lab report or certification showing what the filter takes out of the water. Without it, if the creator only mentions it once instead of clearly using it, I'd skip it.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 60,
+  "price_too_expensive": 90
+}
